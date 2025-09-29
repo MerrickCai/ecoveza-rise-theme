@@ -79,25 +79,25 @@
         "collection-0": {
           "type": "featured_collection",
           "settings": {
-            "collection": ""
+            "collection": "closed-picket-fence-pvc-picket-panels-gates"
           }
         },
         "collection-1": {
           "type": "featured_collection",
           "settings": {
-            "collection": ""
+            "collection": "full-privacy-fence-pvc-privacy-fencing-hardware"
           }
         },
         "collection-2": {
           "type": "featured_collection",
           "settings": {
-            "collection": ""
+            "collection": "privacy-fence-with-closed-picket-top-decorative-pvc-fencing"
           }
         },
         "collection-3": {
           "type": "featured_collection",
           "settings": {
-            "collection": ""
+            "collection": "pvc-planter-boxes-outdoor-decorative-planters"
           }
         }
       },
@@ -107,7 +107,6 @@
         "collection-2",
         "collection-3"
       ],
-      "disabled": true,
       "settings": {
         "title": "Collections",
         "heading_size": "h2",
