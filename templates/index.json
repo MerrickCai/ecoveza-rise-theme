@@ -15,27 +15,27 @@
         "slide-0": {
           "type": "slide",
           "settings": {
+            "image": "shopify://shop_images/Outdoor.webp",
             "image_overlay_opacity": 0,
-            "heading": "Image slide",
+            "heading": "Ecoveza",
             "heading_size": "h1",
-            "subheading": "",
-            "button_label": "Button label",
-            "link": "shopify://collections",
+            "subheading": "One-Stop Yard Design & Construction – Transforming Outdoor Spaces",
+            "button_label": "About Us",
+            "link": "shopify://pages/about",
             "button_style_secondary": false,
             "show_text_box": false,
-            "box_align": "middle-right",
-            "text_alignment": "left",
+            "box_align": "middle-center",
+            "text_alignment": "center",
             "text_alignment_mobile": "center",
-            "color_scheme": "scheme-1"
+            "color_scheme": "scheme-3"
           }
         }
       },
       "block_order": [
         "slide-0"
       ],
-      "disabled": true,
       "settings": {
-        "layout": "full_bleed",
+        "layout": "grid",
         "slide_height": "small",
         "slider_visual": "dots",
         "auto_rotate": false,
