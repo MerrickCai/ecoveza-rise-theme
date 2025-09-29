@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin language editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "general": {
     "password_page": {
@@ -525,6 +534,21 @@
       "send_on_label": "发送日期（可选）",
       "expanded": "礼品卡收件人表单已展开",
       "collapsed": "礼品卡收件人表单已折叠"
+    }
+  },
+  "shopify": {
+    "checkout": {
+      "remote_merchandise_only": {
+        "single_shop_transition": "将您重定向至 %{shop_name} 以完成购买"
+      }
+    }
+  },
+  "customer_accounts": {
+    "subscriptions": {
+      "subscription_contracts": {
+        "contracts_update_failed": "部分订阅合同更新失败",
+        "subscription_contracts_updated": "已更新 { {{total}} {{succeeded}}"
+      }
     }
   }
 }
