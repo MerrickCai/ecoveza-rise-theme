@@ -107,6 +107,7 @@
         "collection-2",
         "collection-3"
       ],
+      "disabled": true,
       "settings": {
         "title": "Collections",
         "heading_size": "h2",
@@ -122,6 +123,7 @@
     },
     "image-banner": {
       "type": "image-banner",
+      "disabled": true,
       "settings": {
         "image_overlay_opacity": 0,
         "image_height": "small",
