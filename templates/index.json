@@ -174,11 +174,11 @@
       ],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
-        "title": "Multicolumn",
+        "title": "",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
-        "button_label": "Button label",
+        "button_label": "",
         "button_link": "",
         "columns_desktop": 3,
         "column_alignment": "left",
@@ -193,9 +193,9 @@
   },
   "order": [
     "hero-slideshow",
+    "multicolumn_CUB7Cn",
     "collection-list",
     "all-products",
-    "image-banner",
-    "multicolumn_CUB7Cn"
+    "image-banner"
   ]
 }
