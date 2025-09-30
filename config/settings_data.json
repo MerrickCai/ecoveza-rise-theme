@@ -146,7 +146,7 @@
       "scheme-1": {
         "settings": {
           "background": "#ffffff",
-          "background_gradient": "linear-gradient(135deg, #ede7e3 0%, #d6ccc2 50%, #f8f9fa 100%)",
+          "background_gradient": "linear-gradient(135deg, #f6f4f2 0%, #eae6e1 50%, #f9f8f7 100%)",
           "text": "#121212",
           "button": "#121212",
           "button_label": "#ffffff",
