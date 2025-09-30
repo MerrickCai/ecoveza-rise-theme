@@ -45,6 +45,63 @@
         "accessibility_info": "Slideshow about our brand"
       }
     },
+    "multicolumn_CUB7Cn": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_bh439a": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/environmentalism.png",
+            "title": "Durable & Eco-Friendly Materials",
+            "text": "<p>We use premium PVC and sustainable materials designed to withstand weather, require low maintenance, and last for years.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_YMKjc8": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/blueprint.png",
+            "title": "Custom Design & Expert Team",
+            "text": "<p>From tailored design plans to professional installation, our experienced team ensures every yard is both functional and beautiful.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_ddKKd7": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/delivery.png",
+            "title": "Fast Local Delivery & Support",
+            "text": "<p>Based in Washington, we provide quick delivery and responsive support to make your yard project worry-free.</p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_bh439a",
+        "column_YMKjc8",
+        "column_ddKKd7"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "third",
+        "image_ratio": "adapt",
+        "button_label": "",
+        "button_link": "",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "collection-list": {
       "type": "collection-list",
       "blocks": {
@@ -134,60 +191,6 @@
         "stack_images_on_mobile": true,
         "mobile_content_alignment": "center",
         "show_text_below": true
-      }
-    },
-    "multicolumn_CUB7Cn": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_bh439a": {
-          "type": "column",
-          "settings": {
-            "title": "Durable & Eco-Friendly Materials",
-            "text": "<p>We use premium PVC and sustainable materials designed to withstand weather, require low maintenance, and last for years.</p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_YMKjc8": {
-          "type": "column",
-          "settings": {
-            "title": "Custom Design & Expert Team",
-            "text": "<p>From tailored design plans to professional installation, our experienced team ensures every yard is both functional and beautiful.</p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_ddKKd7": {
-          "type": "column",
-          "settings": {
-            "title": "Fast Local Delivery & Support",
-            "text": "<p>Based in Washington, we provide quick delivery and responsive support to make your yard project worry-free.</p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column_bh439a",
-        "column_YMKjc8",
-        "column_ddKKd7"
-      ],
-      "name": "t:sections.multicolumn.presets.name",
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "button_label": "",
-        "button_link": "",
-        "columns_desktop": 3,
-        "column_alignment": "left",
-        "background_style": "primary",
-        "color_scheme": "",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
       }
     }
   },
